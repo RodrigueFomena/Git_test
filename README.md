@@ -1,2 +1,2 @@
 # Git_test
-introduction to Git/GitHub
+introduction to Git/GitHub by coursera
